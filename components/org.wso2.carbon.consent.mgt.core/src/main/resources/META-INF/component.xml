@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
   ~
   ~ Copyright (c) 2018, WSO2 Inc. (http://www.wso2.org) All Rights Reserved.
@@ -21,23 +22,23 @@
 <component xmlns="http://products.wso2.org/carbon">
     <ManagementPermissions>
         <ManagementPermission>
-            <DisplayName>Consent Management</DisplayName>
+            <DisplayName>同意管理</DisplayName>
             <ResourceId>/permission/admin/manage/identity/consentmgt</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Add</DisplayName>
+            <DisplayName>添加</DisplayName>
             <ResourceId>/permission/admin/manage/identity/consentmgt/add</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>View</DisplayName>
+            <DisplayName>查看</DisplayName>
             <ResourceId>/permission/admin/manage/identity/consentmgt/view</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>List</DisplayName>
+            <DisplayName>列表</DisplayName>
             <ResourceId>/permission/admin/manage/identity/consentmgt/list</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Delete</DisplayName>
+            <DisplayName>删除</DisplayName>
             <ResourceId>/permission/admin/manage/identity/consentmgt/delete</ResourceId>
         </ManagementPermission>
     </ManagementPermissions>
